@@ -11,8 +11,10 @@
 - 后端：C# + ASP.NET
 
 # 使用方法
-1、下载项目到您的电脑上
-2、点击**CSHarp_BigWork111.sln**文件用VS运行它
+1、下载项目到您的电脑上<br/>
+
+2、点击**CSHarp_BigWork111.sln**文件用VS运行它<br/>
+
 ![使用说明](./example/使用说明01.png)
 
 
